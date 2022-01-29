@@ -6,5 +6,6 @@ $points = $points + $value;
 }
 echo $points;
 ?>
+привет от старых штиблет 
 
 
